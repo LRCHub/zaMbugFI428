@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "ある未来より愛を込めて",
+  "base_artist": "back number",
+  "createdAt": "2026-03-05T12:48:21.385165Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ある未来より愛を込めて",
+      "artist": "back number",
+      "has_synced": true,
+      "path": "select/01_ある未来より愛を込めて_back_number.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ある未来より愛を込めて",
+      "artist": "back number",
+      "has_synced": false,
+      "path": "select/pl_01_ある未来より愛を込めて_back_number.txt"
+    }
+  ]
+}
